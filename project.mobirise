@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ArnoAmandt2017NL",
-    "currentPage": "figuur.html",
+    "currentPage": "facetten",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -101,7 +101,7 @@
             "bgColor": "#7c706b",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#c1c1c1",
+            "fontColor": "#7c706b",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -124,7 +124,7 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://arnoamandt.github.io/Eng/index.html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">English Version</a>",
+          "brand": "<a class=\"navbar-caption text-black\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">English Version</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Portraits\">Portraits</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Landscapes\">Landscapes</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Others</a><div class=\"dropdown-menu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">drawings</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"figuur.html\">figuur</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"stilleven.html\">Stilleven</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Contact</a></li>"
         },
         {
@@ -244,13 +244,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#7c706b"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#7c706b"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#7c706b"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -271,7 +271,7 @@
               "background": "#7c706b"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#7c706b",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -293,7 +293,7 @@
             "bgColor": "#7c706b",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#7c706b",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -573,7 +573,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-800x394.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg0.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg5.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -583,7 +583,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-1-800x400.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-11.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-16.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -593,7 +593,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-2-800x636.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-22.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-27.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -630,13 +630,13 @@
               "font-size": "13px"
             },
             ".navbar-toggler": {
-              "color": "#c1c1c1"
+              "color": "#7c706b"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#c1c1c1"
+              "background-color": "#7c706b"
             },
             ".link, .dropdown-item": {
-              "color": "#c1c1c1"
+              "color": "#7c706b"
             },
             ".link": {
               "font-size": "0.75rem"
@@ -657,7 +657,7 @@
               "background": "#7c706b"
             },
             ".bg-color.transparent .link": {
-              "color": "#c1c1c1",
+              "color": "#7c706b",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -679,7 +679,7 @@
             "bgColor": "#7c706b",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#c1c1c1",
+            "fontColor": "#7c706b",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -791,7 +791,7 @@
             "bgColor": "#7c706b",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#c1c1c1",
+            "fontColor": "#7c706b",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -996,7 +996,7 @@
             "bgColor": "#7c706b",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#c1c1c1",
+            "fontColor": "#7c706b",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -1121,7 +1121,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-11-800x528.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-113.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-11.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1171,7 +1171,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-16-800x532.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-16.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-168.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1231,7 +1231,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-22-800x534.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-224.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-22.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1324,7 +1324,7 @@
             "bgColor": "#7c706b",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#c1c1c1",
+            "fontColor": "#7c706b",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -1595,7 +1595,7 @@
             "bgColor": "#7c706b",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#c1c1c1",
+            "fontColor": "#7c706b",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -1764,7 +1764,7 @@
             "bgColor": "#7c706b",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#c1c1c1",
+            "fontColor": "#7c706b",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -1979,7 +1979,7 @@
             "bgColor": "#7c706b",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#c1c1c1",
+            "fontColor": "#7c706b",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -2051,7 +2051,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-27-800x1156.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-27.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-279.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2194,7 +2194,7 @@
             "bgColor": "#7c706b",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#c1c1c1",
+            "fontColor": "#7c706b",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
@@ -2409,7 +2409,7 @@
             "bgColor": "#7c706b",
             "fontSize": 0.75,
             "fontName": {},
-            "fontColor": "#ffffff",
+            "fontColor": "#7c706b",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": true,
