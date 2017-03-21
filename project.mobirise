@@ -485,7 +485,7 @@
             "showMeta": true
           },
           "title": "Facetten en diverse benaderingen van het portret",
-          "meta": "Het ontdekken van de verschillende onderdelen van het gezicht is belangrijk om het afgebeelde individu te leren begrijpen. De blik in deze werken worden benadrukt door de afwisselende formaten waarin ze gepresenteerd worden &nbsp; &nbsp;"
+          "meta": "Het ontdekken van de verschillende onderdelen van het gezicht is belangrijk om het afgebeelde individu te leren begrijpen. De blik in deze werken worden benadrukt door de afwisselende formaten waarin ze gepresenteerd worden. Na de studies komen verschillende formaten aan bod die de blik helpen uitkomen en accentueren. &nbsp; &nbsp;"
         },
         {
           "_inherit": "gallery1",
@@ -573,7 +573,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-800x394.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg5.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg10.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -583,7 +583,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-1-800x400.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-16.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-111.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -593,7 +593,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-2-800x636.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-27.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-212.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -1171,7 +1171,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-16-800x532.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-168.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-16.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -2051,7 +2051,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-27-800x1156.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-279.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-27.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
