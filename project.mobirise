@@ -484,7 +484,7 @@
             "bgColor": "#fff",
             "showMeta": true
           },
-          "title": "Facetten en diverse benaderingen van het portret",
+          "title": "Facetten en nieuwe aspecten van de blik",
           "meta": "Het ontdekken van de verschillende onderdelen van het gezicht is belangrijk om het afgebeelde individu te leren begrijpen. De blik in deze werken worden benadrukt door de afwisselende formaten waarin ze gepresenteerd worden. Na de studies komen verschillende formaten aan bod die de blik helpen uitkomen en accentueren. &nbsp; &nbsp;"
         },
         {
@@ -573,7 +573,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-800x394.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg10.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg13.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -583,7 +583,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-1-800x400.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-111.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-114.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -593,7 +593,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-2-800x636.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-212.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-215.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
