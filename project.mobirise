@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ArnoAmandt2017NL",
-    "currentPage": "Blikogen",
+    "currentPage": "Landscapes",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -573,7 +573,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-800x394.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg14.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg19.jpg",
                 "caption": "20cm x 40cm",
                 "active": false
               },
@@ -583,7 +583,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-1-800x400.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-115.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-120.jpg",
                 "caption": "20cm x 40cm",
                 "active": false
               },
@@ -593,7 +593,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-2-800x636.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-216.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-221.jpg",
                 "caption": "24cm x 30cm",
                 "active": false
               },
@@ -876,7 +876,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-40-800x801.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-4017.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-4022.jpg",
                 "caption": "30cm x 30cm",
                 "active": true
               },
@@ -1506,7 +1506,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-41-800x579.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mg-41.jpg",
-                "caption": "Type caption here",
+                "caption": "24cm x 18cm",
                 "active": false
               },
               {
@@ -1516,7 +1516,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-42-800x590.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mg-42.jpg",
-                "caption": "Type caption here",
+                "caption": "24cm x 18cm",
                 "active": false
               },
               {
@@ -1526,7 +1526,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-43-800x587.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mg-43.jpg",
-                "caption": "Type caption here",
+                "caption": "24cm x 18cm",
                 "active": false
               },
               {
@@ -1536,12 +1536,12 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-44-800x596.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mg-44.jpg",
-                "caption": "Type caption here",
+                "caption": "24cm x 18cm",
                 "active": true
               }
             ],
             "spacing": "3",
-            "showText": false,
+            "showText": true,
             "filter": false,
             "bgColor": "fff",
             "filterBgColor": false,
@@ -2302,7 +2302,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-3-800x1079.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-318.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-323.jpg",
                 "caption": "Type caption here",
                 "active": true
               },
