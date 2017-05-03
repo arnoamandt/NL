@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ArnoAmandt2017NL",
-    "currentPage": "contact.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -573,7 +573,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-800x394.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg14.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg0.jpg",
                 "caption": "20cm x 40cm",
                 "active": false
               },
@@ -583,7 +583,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-1-800x400.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-115.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-11.jpg",
                 "caption": "20cm x 40cm",
                 "active": false
               },
@@ -593,7 +593,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-2-800x636.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-216.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-22.jpg",
                 "caption": "24cm x 30cm",
                 "active": false
               },
@@ -876,7 +876,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-40-800x801.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-4017.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-403.jpg",
                 "caption": "30cm x 30cm",
                 "active": true
               },
@@ -1144,7 +1144,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-11-800x528.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-11.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-114.jpg",
                 "caption": "12cm x 18cm",
                 "active": false
               },
@@ -1254,7 +1254,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-22-800x534.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-22.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-225.jpg",
                 "caption": "12cm x 18cm",
                 "active": false
               },
@@ -2312,7 +2312,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-3-800x1079.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-318.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-36.jpg",
                 "caption": "18cm x 24cm",
                 "active": true
               },
@@ -2540,13 +2540,6 @@
             "Theme"
           ],
           "_name": "content2",
-          "_anchor": "content2-1f",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<blockquote><p><span style=\"line-height: 1.5;\">-<b>Young Lions Beurs:&nbsp;</b>Wilrijk, BarViZart 28 -29 April 2017</span></p><p><span style=\"line-height: 1.5;\">-<b>WAK-Dag, talent van eigen bodem:</b> Zaal Skala, Kalken, 22 April 2017</span></p><p><span style=\"line-height: 1.5;\">- </span><b style=\"line-height: 1.5;\">Sale:</b><span style=\"line-height: 1.5;\">&nbsp;Berlare, CC De stroming, 3 Maart- 7 Mei 2017</span><br></p><p>-<b>Arnoevoo</b>: Staf Versluyscentrum, Bredene, 31 Maart- 29 april 2015</p><p><br></p><p>Aankomende tentoonstellingen:</p><p>Lak@rt: Kazematten, Ieper, 24- 28 Mei 2017</p><p>&nbsp;lak@rt binnenkoer: Laarne, 3 Juni -5 Juni 2017</p><p><br></p></blockquote>",
           "_styles": {
             "BLOCKQUOTE": {
               "font-family": "'Ubuntu', sans-serif",
@@ -2554,9 +2547,17 @@
             },
             "P": {
               "text-align": "left",
-              "font-size": "20px"
+              "font-size": "20px",
+              "color": "#c0a375"
             }
-          }
+          },
+          "_anchor": "content2-1f",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><ul><li><span style=\"line-height: 1.5;\"><b>Young Lions Beurs:&nbsp;</b>Wilrijk, BarViZart 28 -29 April 2017</span></li></ul><p><span style=\"line-height: 1.5;\"><br></span></p><ul><li><span style=\"line-height: 1.5;\"><b>WAK-Dag, talent van eigen bodem:</b> Zaal Skala, Kalken, 22 April 2017</span></li></ul><p><span style=\"line-height: 1.5;\"><br></span></p><ul><li><span style=\"line-height: 1.5;\">&nbsp;</span><b style=\"line-height: 1.5;\">Sale:</b><span style=\"line-height: 1.5;\">&nbsp;Berlare, CC De stroming, 3 Maart- 7 Mei 2017</span></li></ul><p><br></p><ul><li><b>Arnoevoo</b>: Staf Versluyscentrum, Bredene, 31 Maart- 29 april 2015</li></ul><p><br></p><p>Aankomende tentoonstellingen:</p><p><br></p><ul><li><b>Lak@rt &nbsp;in Ieper:</b> Kazematten, Ieper, 24- 28 Mei 2017</li></ul><p><br></p><ul><li>&nbsp;<b>lak@rt binnenkoer:</b> Laarne, 3 Juni -5 Juni 2017</li></ul><p><br></p></blockquote>"
         }
       ]
     }
