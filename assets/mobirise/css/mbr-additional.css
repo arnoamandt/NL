@@ -561,6 +561,9 @@ h6,
 #header3-1h .mbr-section-subtitle {
   text-align: center;
 }
+#header3-1h H3 {
+  font-size: 30px;
+}
 #header3-16 .mbr-section-title,
 #header3-16 .mbr-section-subtitle {
   text-align: center;
@@ -587,11 +590,11 @@ h6,
   color: #7c706b;
 }
 #menu-5 .link {
-  font-size: 0.75rem;
+  font-size: 1rem;
 }
 #menu-5 .dropdown-item,
 #menu-5 .nav-dropdown-sm .link {
-  font-size: 0.812rem;
+  font-size: 1.083rem;
 }
 #menu-5 .link:hover,
 #menu-5 .dropdown-item:hover,
