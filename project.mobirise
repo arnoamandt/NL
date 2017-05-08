@@ -49,7 +49,7 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "13px"
+              "font-size": "15px"
             },
             ".navbar-toggler": {
               "color": "#7c706b"
@@ -61,10 +61,10 @@
               "color": "#7c706b"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.9rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.975rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -99,7 +99,7 @@
           "_anchor": "menu-0",
           "_params": {
             "bgColor": "#7c706b",
-            "fontSize": 0.75,
+            "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#7c706b",
             "fontHoverColor": "@primaryColor",
@@ -573,7 +573,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-800x394.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg0.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg7.jpg",
                 "caption": "20cm x 40cm",
                 "active": false
               },
@@ -583,7 +583,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-1-800x400.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-11.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-18.jpg",
                 "caption": "20cm x 40cm",
                 "active": false
               },
@@ -593,7 +593,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-2-800x636.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-22.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-29.jpg",
                 "caption": "24cm x 30cm",
                 "active": false
               },
@@ -876,7 +876,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-40-800x801.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-403.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-4010.jpg",
                 "caption": "30cm x 30cm",
                 "active": true
               },
@@ -1144,7 +1144,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-11-800x528.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-114.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-11.jpg",
                 "caption": "12cm x 18cm",
                 "active": false
               },
@@ -1214,7 +1214,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-18-800x536.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-18.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-1811.jpg",
                 "caption": "12cm x 18cm",
                 "active": false
               },
@@ -1254,7 +1254,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-22-800x534.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-225.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-22.jpg",
                 "caption": "12cm x 18cm",
                 "active": false
               },
@@ -2104,7 +2104,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-29-800x1134.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-29.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-2912.jpg",
                 "caption": "21cm x 14,8cm",
                 "active": false
               },
@@ -2312,7 +2312,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-3-800x1079.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-36.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-313.jpg",
                 "caption": "18cm x 24cm",
                 "active": true
               },
@@ -2414,7 +2414,7 @@
             },
             ".navbar-caption": {
               "color": "#ffffff",
-              "font-size": "13px"
+              "font-size": "15px"
             },
             ".navbar-toggler": {
               "color": "#7c706b"
@@ -2426,10 +2426,10 @@
               "color": "#7c706b"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "0.9rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "0.975rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2464,7 +2464,7 @@
           "_anchor": "menu-1d",
           "_params": {
             "bgColor": "#7c706b",
-            "fontSize": 0.75,
+            "fontSize": "0.9",
             "fontName": {},
             "fontColor": "#7c706b",
             "fontHoverColor": "@primaryColor",
