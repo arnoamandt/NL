@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ArnoAmandt2017NL",
-    "currentPage": "index.html",
+    "currentPage": "vagerportretten.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -596,7 +596,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-800x394.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg7.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg0.jpg",
                 "caption": "20cm x 40cm",
                 "active": false
               },
@@ -606,7 +606,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-1-800x400.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-18.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-11.jpg",
                 "caption": "20cm x 40cm",
                 "active": false
               },
@@ -616,7 +616,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-2-800x636.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-29.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-22.jpg",
                 "caption": "24cm x 30cm",
                 "active": false
               },
@@ -899,7 +899,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-40-800x801.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-4010.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-403.jpg",
                 "caption": "30cm x 30cm",
                 "active": true
               },
@@ -1109,7 +1109,7 @@
             "showMeta": true
           },
           "title": "&nbsp;Alleen de blik",
-          "meta": "Blikken worden bij deze werken centraal gezet, en laten zien hoe individueel elke mens kijkt, zowel met de ogen als de bijhorende emotie of uitdrukking.&nbsp;"
+          "meta": "Blikken worden bij deze werken centraal gezet. Ze laten zien hoe individueel elke mens kijkt, zowel met de ogen als de bijhorende emotie of uitdrukking. De focus ligt door de compositie op de ogen, zodat in elk werk niets anders kunt doen dan in de blik kijken.&nbsp;"
         },
         {
           "_inherit": "gallery1",
@@ -1167,7 +1167,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-11-800x528.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-11.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-114.jpg",
                 "caption": "12cm x 18cm",
                 "active": false
               },
@@ -1237,7 +1237,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-18-800x536.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-1811.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-18.jpg",
                 "caption": "12cm x 18cm",
                 "active": false
               },
@@ -1277,7 +1277,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-22-800x534.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-22.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-225.jpg",
                 "caption": "12cm x 18cm",
                 "active": false
               },
@@ -1611,10 +1611,10 @@
               "color": "#7c706b"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1780,10 +1780,10 @@
               "color": "#7c706b"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1995,10 +1995,10 @@
               "color": "#7c706b"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2127,7 +2127,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-29-800x1134.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-2912.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-29.jpg",
                 "caption": "21cm x 14,8cm",
                 "active": false
               },
@@ -2210,10 +2210,10 @@
               "color": "#7c706b"
             },
             ".link": {
-              "font-size": "0.75rem"
+              "font-size": "1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.812rem"
+              "font-size": "1.083rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -2335,7 +2335,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-3-800x1079.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-313.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-36.jpg",
                 "caption": "18cm x 24cm",
                 "active": true
               },
