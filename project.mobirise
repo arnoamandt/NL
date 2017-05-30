@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ArnoAmandt2017NL",
-    "currentPage": "Portraits",
+    "currentPage": "vagerportretten.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -556,7 +556,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-4-800x1194.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-413.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-418.jpg",
                 "caption": "10cm x 15cm",
                 "active": false
               },
@@ -596,7 +596,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-800x394.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg14.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg19.jpg",
                 "caption": "20cm x 40cm",
                 "active": false
               },
@@ -606,7 +606,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-1-800x400.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-115.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-120.jpg",
                 "caption": "20cm x 40cm",
                 "active": false
               },
@@ -616,7 +616,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-2-800x636.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-216.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-221.jpg",
                 "caption": "24cm x 30cm",
                 "active": false
               },
@@ -625,8 +625,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/naamloosp-1704x1360-800x638.png",
-                "image": "@PROJECT_PATH@/assets/images/naamloosp-1704x1360.png",
+                "thumb": "@PROJECT_PATH@/assets/images/img-3-800x649.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-3.jpg",
                 "caption": "24cm x 30cm",
                 "active": true
               }
@@ -901,15 +901,15 @@
                 "thumb": "@PROJECT_PATH@/assets/images/mg-40-800x801.jpg",
                 "image": "@PROJECT_PATH@/assets/images/mg-40.jpg",
                 "caption": "30cm x 30cm",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-2000x3006-800x1202.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-2000x3006.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/arnostudie-800x1254.jpg",
+                "image": "@PROJECT_PATH@/assets/images/arnostudie.jpg",
                 "caption": "12cm x 18cm",
                 "active": false
               },
@@ -928,8 +928,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-32-1300x1988-2000x3058-800x1223.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-32-1300x1988-2000x3058.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/grof-800x1207.jpg",
+                "image": "@PROJECT_PATH@/assets/images/grof.jpg",
                 "caption": "12cm x 18cm",
                 "active": false
               },
@@ -938,8 +938,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-31-1200x1766-2000x2943-800x1177.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-31-1200x1766-2000x2943.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/studieallenogen-800x1198.jpg",
+                "image": "@PROJECT_PATH@/assets/images/studieallenogen.jpg",
                 "caption": "12cm x 18cm",
                 "active": false
               },
@@ -948,8 +948,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-29-1300x1941-2000x2986-800x1194.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-29-1300x1941-2000x2986.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/fredstudie-800x1202.jpg",
+                "image": "@PROJECT_PATH@/assets/images/fredstudie.jpg",
                 "caption": "12cm x 18cm",
                 "active": false
               },
@@ -958,10 +958,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-28-1200x1785-2000x2975-800x1190.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-28-1200x1785-2000x2975.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-5-800x1213.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-522.jpg",
                 "caption": "12cm x 18cm",
-                "active": false
+                "active": true
               }
             ],
             "spacing": "2",
@@ -2335,17 +2335,17 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mg-3-800x1079.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-317.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-323.jpg",
                 "caption": "18cm x 24cm",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mg-967x1300-800x1075.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mg-967x1300.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/mg-4-800x1078.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mg-4.jpg",
                 "caption": "18cm x 24cm",
                 "active": false
               },
@@ -2374,10 +2374,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/naamloosf-1249x1665-800x1066.png",
-                "image": "@PROJECT_PATH@/assets/images/naamloosf-1249x1665.png",
+                "thumb": "@PROJECT_PATH@/assets/images/img-4-800x1057.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-4.jpg",
                 "caption": "18cm x 24cm",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Awesome",
